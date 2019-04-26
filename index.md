@@ -1,7 +1,7 @@
 # Aaron Laai
 
 ## Informations
-Undergraduate student
+Undergraduate student  
 Major: Mathematics and Applied Mathematics  
 [School of Science and Engineering](http://sse.cuhk.edu.cn/en)  
 [The Chinese University of Hong Kong, Shenzhen](http://www.cuhk.edu.cn/en)  
