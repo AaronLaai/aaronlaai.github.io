@@ -1,4 +1,4 @@
-# Wern-Dyi LAY
+# Wern Dyi, LAY
 
 ## Informations
 >Undergraduate student  
@@ -11,4 +11,4 @@ Contact: wendilai@link.cuhk.edu.cn
 
 ## Notes
 ### 2019 Spring term
->[MAT3040 Advanced Linear ALgebra](https://github.com/AaronLaai/aaronlaai.github.io/raw/master/MAT3040_Advanced_Linear_Algebra/MAT3040_notes.pdf)
+>[MAT3040 Advanced Linear ALgebra](https://github.com/WernDyiLAY/werndyilay.github.io/raw/master/MAT3040_Advanced_Linear_Algebra/MAT3040_notes.pdf)
