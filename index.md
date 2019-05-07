@@ -1,4 +1,4 @@
-# Wern-Dyi Laay
+# Wern-Dyi LAY
 
 ## Informations
 >Undergraduate student  
